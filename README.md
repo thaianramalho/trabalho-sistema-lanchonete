@@ -1,4 +1,4 @@
-# Sistema de Lanchonete "Quase Três Lanches"
+# Sistema da Lanchonete "Quase Três Lanches"
 Este sistema foi desenvolvido para a lanchonete Quase Três Lanches. Foi feito em Java para automatizar o processo de pedidos, vendas, e geração de notas ficais.
 
 ## Classes
