@@ -16,6 +16,8 @@ public class App {
         NotaFiscal notaFiscal = new NotaFiscal(pedidoCliente);
         notaFiscal.gerarNotaFiscal();
 
+        System.out.println("Cliente: " + pedidoCliente.getNomeCliente());
         System.out.println("Total do pedido: R$" + pedidoCliente.calcularTotal());
+
     }
 }
